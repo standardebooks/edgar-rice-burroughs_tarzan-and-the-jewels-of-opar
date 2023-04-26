@@ -39,9 +39,13 @@
 		<meta property="term" refines="#subject-3">sh85001072</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta id="collection-1" property="belongs-to-collection">Tarzan</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">5</meta>
+		<dc:description id="description">After seeking the riches of Opar, Tarzan must save his wife from captivity.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Tarzan and the Jewels of Opar&lt;/i&gt; was first published in 1918 and is the fifth work in the &lt;a href="https://standardebooks.org/ebooks?query=Tarzan"&gt;Tarzan&lt;/a&gt; series, and features the return of both the city of Opar and its priestress, La.&lt;/p&gt;
+			&lt;p&gt;After having lost his fortune, Tarzan sets to loot some of the riches of the ancient city of Opar, which causes his wife, Jane, to fall into the hands of slavers and a renegade belgian officer, leading Tarzan into further conflit with both man and beast.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/92</dc:source>
