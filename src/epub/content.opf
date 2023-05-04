@@ -44,8 +44,8 @@
 		<meta property="group-position" refines="#collection-1">5</meta>
 		<dc:description id="description">After seeking the riches of Opar, Tarzan must save his wife from captivity.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Tarzan and the Jewels of Opar&lt;/i&gt; was first published in 1918 and is the fifth work in the &lt;a href="https://standardebooks.org/ebooks?query=Tarzan"&gt;Tarzan&lt;/a&gt; series, and features the return of both the city of Opar and its priestress, La.&lt;/p&gt;
-			&lt;p&gt;After having lost his fortune, Tarzan sets to loot some of the riches of the ancient city of Opar, which causes his wife, Jane, to fall into the hands of slavers and a renegade belgian officer, leading Tarzan into further conflit with both man and beast.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Tarzan and the Jewels of Opar&lt;/i&gt; was first published in 1918 and is the fifth work in the &lt;a href="https://standardebooks.org/collections/tarzan"&gt;Tarzan&lt;/a&gt; series, and features the return of both the city of Opar and its priestess, La.&lt;/p&gt;
+			&lt;p&gt;After having lost his fortune, Tarzan sets to loot some of the riches of the ancient city of Opar, which causes his wife, Jane, to fall into the hands of slavers and a renegade Belgian officer, leading Tarzan into further conflict with both man and beast.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/92</dc:source>
@@ -61,6 +61,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">J. Allen St. John</dc:contributor>
 		<meta property="file-as" refines="#artist">St. John, J. Allen</meta>
+		<meta property="se:name.person.full-name" refines="#artist">James Allen St. John</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/J._Allen_St._John</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">id.loc.gov/authorities/names/n86809359</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
