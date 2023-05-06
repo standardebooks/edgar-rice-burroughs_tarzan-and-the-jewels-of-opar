@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-and-the-jewels-of-opar</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-05-06T16:15:07Z</dc:date>
+		<meta property="dcterms:modified">2023-05-06T16:15:07Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,14 +44,14 @@
 		<meta property="group-position" refines="#collection-1">5</meta>
 		<dc:description id="description">After seeking the riches of Opar, Tarzan must save his wife from captivity.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Tarzan and the Jewels of Opar&lt;/i&gt; was first published in 1918 and is the fifth work in the &lt;a href="https://standardebooks.org/collections/tarzan"&gt;Tarzan&lt;/a&gt; series, and features the return of both the city of Opar and its priestess, La.&lt;/p&gt;
-			&lt;p&gt;After having lost his fortune, Tarzan sets to loot some of the riches of the ancient city of Opar, which causes his wife, Jane, to fall into the hands of slavers and a renegade Belgian officer, leading Tarzan into further conflict with both man and beast.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Tarzan and the Jewels of Opar&lt;/i&gt;, the fifth work in the &lt;a href="https://standardebooks.org/collections/tarzan"&gt;Tarzan&lt;/a&gt; series, was published in 1918 and features a return to the city of Opar and its priestess, La.&lt;/p&gt;
+			&lt;p&gt;After having lost his fortune, Tarzan sets out to loot some of the riches of the ancient city of Opar. This results in his wife, Jane, falling into the hands of slavers and a renegade Belgian officer, which leads Tarzan into further conflict with both man and beast.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/92</dc:source>
 		<dc:source>https://archive.org/details/tarzanjewelsofop00burruoft</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">66358</meta>
+		<meta property="se:reading-ease.flesch">66.17</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Tarzan_and_the_Jewels_of_Opar</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_tarzan-and-the-jewels-of-opar</meta>
 		<dc:creator id="author">Edgar Rice Burroughs</dc:creator>
@@ -63,7 +63,7 @@
 		<meta property="file-as" refines="#artist">St. John, J. Allen</meta>
 		<meta property="se:name.person.full-name" refines="#artist">James Allen St. John</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/J._Allen_St._John</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">id.loc.gov/authorities/names/n86809359</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n86809359</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Judith Boss</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Boss, Judith</meta>
@@ -76,6 +76,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
