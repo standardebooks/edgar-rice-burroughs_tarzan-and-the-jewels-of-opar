@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-and-the-jewels-of-opar</dc:identifier>
 		<dc:date>2023-05-06T16:15:07Z</dc:date>
@@ -44,11 +44,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Tarzan</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">5</meta>
-		<dc:description id="description">After seeking the riches of Opar, Tarzan must save his wife from captivity.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>After seeking the riches of Opar, Tarzan must save his wife from captivity.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Tarzan and the Jewels of Opar&lt;/i&gt;, the fifth work in the &lt;a href="https://standardebooks.org/collections/tarzan"&gt;Tarzan&lt;/a&gt; series, was published in 1918 and features a return to the city of Opar and its priestess, La.&lt;/p&gt;
 			&lt;p&gt;After having lost his fortune, Tarzan sets out to loot some of the riches of the ancient city of Opar. This results in his wife, Jane, falling into the hands of slavers and a renegade Belgian officer, which leads Tarzan into further conflict with both man and beast.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/92</dc:source>
 		<dc:source>https://archive.org/details/tarzanjewelsofop00burruoft</dc:source>
